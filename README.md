@@ -8,7 +8,7 @@
 
 * 🌱 I’m currently using `Javascript` `NodeJS` `Vue` `React`
 
-* ✈️ Open to Remote Job Opportunities 🍻
+* ✈️ accept to Remote Job Opportunities 🍻
 
 * 👀 Feel free to contact me via jmjwlj@gmail.com
 
