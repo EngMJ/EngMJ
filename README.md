@@ -5,6 +5,13 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/EngMJ/EngMJ/main/output/github-contribution-grid-snake.svg)
 
+
+* 🌱 I’m currently using `Javascript` `NodeJS` `Vue` `React`
+
+* ✈️ Open to Remote Job Opportunities 🍻
+
+* 👀 Feel free to contact me via jmjwlj@gmail.com
+
 <!--
 **EngMJ/EngMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
